@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Alan Benvenuto!
+#  Olá, eu sou o Alan Benvenuto!
 
 <div align="center">
 
@@ -16,33 +16,33 @@ Acredito no aprendizado através da prática e gosto de transformar ideias em ap
 
 ---
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
-### 🤖 Inteligência Artificial
-
-| Projeto | Descrição |
-|---|---|
-| 🧠 [IA Local PC Ollama](https://github.com/Alan0o0/IA-Local-PC-Ollama) | Agente de estudos desenvolvido em Python e Streamlit, com execução local de modelos de linguagem através do Ollama. Explora chat com streaming, histórico de conversas, memória e funcionalidades de estudo sem depender de serviços em nuvem. |
-| 📚 [Agente de IA para Estudos Google](https://github.com/Alan0o0/Agente-de-IA-Estudos-Google) | Agente inteligente desenvolvido com Python, Google ADK e Gemini. Auxilia na organização dos estudos por meio de cronogramas personalizados, revisões espaçadas, flashcards, quizzes e integração com o Google Agenda. |
-| 💡 [Desafios IA — Imersão Alura](https://github.com/Alan0o0/Desafios-IA-Imersao-Alura) | Desenvolvimento do ALURA LABS, uma plataforma SPA que reúne calculadora básica, calculadora científica e gerenciador de tarefas, utilizando HTML, CSS e JavaScript. |
-
-### 💻 Desenvolvimento Backend e APIs
+###  Inteligência Artificial
 
 | Projeto | Descrição |
 |---|---|
-| 🛋️ [Agendador de Serviços de Tapeçaria](https://github.com/Alan0o0/Agendador-Horarios-Tapecaria) | Aplicação web para agendamento de serviços de tapeçaria. Permite selecionar serviços, tapeceiros, datas e horários disponíveis, com prevenção de conflitos entre reservas. Desenvolvida com Java 25, Spring Boot, Spring Data JPA, H2 e JavaScript. |
-| 🎮 [Game Manager API](https://github.com/Alan0o0/Game-Manager-API) | API Backend desenvolvida com Java e Spring Boot para gerenciamento de jogos e organização em listas. Utiliza arquitetura em camadas, separando responsabilidades entre Domain, Repository, Service e Controller, além de persistência com ORM. |
-| 📍 [Consulta CEP](https://github.com/Alan0o0/Consulta-Cep) | Aplicação Java que realiza consultas de CEPs brasileiros através do consumo de uma API externa, explorando requisições HTTP e integração com serviços externos. |
+|  [IA Local PC Ollama](https://github.com/Alan0o0/IA-Local-PC-Ollama) | Agente de estudos desenvolvido em Python e Streamlit, com execução local de modelos de linguagem através do Ollama. Explora chat com streaming, histórico de conversas, memória e funcionalidades de estudo sem depender de serviços em nuvem. |
+|  [Agente de IA para Estudos Google](https://github.com/Alan0o0/Agente-de-IA-Estudos-Google) | Agente inteligente desenvolvido com Python, Google ADK e Gemini. Auxilia na organização dos estudos por meio de cronogramas personalizados, revisões espaçadas, flashcards, quizzes e integração com o Google Agenda. |
+|  [Desafios IA — Imersão Alura](https://github.com/Alan0o0/Desafios-IA-Imersao-Alura) | Desenvolvimento do ALURA LABS, uma plataforma SPA que reúne calculadora básica, calculadora científica e gerenciador de tarefas, utilizando HTML, CSS e JavaScript. |
 
-### 🌐 Desenvolvimento Web
+###  Desenvolvimento Backend e APIs
 
 | Projeto | Descrição |
 |---|---|
-| 💼 [Meu Portfólio](https://github.com/Alan0o0/Portfolio-Alan-Be-de-Oliveira) | Portfólio pessoal desenvolvido com HTML, CSS e JavaScript, apresentando minha trajetória, habilidades e projetos. |
+|  [Agendador de Serviços de Tapeçaria](https://github.com/Alan0o0/Agendador-Horarios-Tapecaria) | Aplicação web para agendamento de serviços de tapeçaria. Permite selecionar serviços, tapeceiros, datas e horários disponíveis, com prevenção de conflitos entre reservas. Desenvolvida com Java 25, Spring Boot, Spring Data JPA, H2 e JavaScript. |
+|  [Game Manager API](https://github.com/Alan0o0/Game-Manager-API) | API Backend desenvolvida com Java e Spring Boot para gerenciamento de jogos e organização em listas. Utiliza arquitetura em camadas, separando responsabilidades entre Domain, Repository, Service e Controller, além de persistência com ORM. |
+|  [Consulta CEP](https://github.com/Alan0o0/Consulta-Cep) | Aplicação Java que realiza consultas de CEPs brasileiros através do consumo de uma API externa, explorando requisições HTTP e integração com serviços externos. |
+
+###  Desenvolvimento Web
+
+| Projeto | Descrição |
+|---|---|
+|  [Meu Portfólio](https://github.com/Alan0o0/Portfolio-Alan-Be-de-Oliveira) | Portfólio pessoal desenvolvido com HTML, CSS e JavaScript, apresentando minha trajetória, habilidades e projetos. |
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 ### Linguagens e desenvolvimento
 
@@ -67,7 +67,7 @@ Acredito no aprendizado através da prática e gosto de transformar ideias em ap
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Acredito no aprendizado através da prática e gosto de transformar ideias em ap
 
 ---
 
-## 🎯 Atualmente estudando e aprimorando
+##  Atualmente estudando e aprimorando
 
 - Desenvolvimento Backend com Java e Spring Boot.
 - Construção, documentação e integração de APIs REST.
@@ -97,7 +97,7 @@ Acredito no aprendizado através da prática e gosto de transformar ideias em ap
 
 ---
 
-## 📫 Entre em contato
+##  Entre em contato
 
 <div align="center">
 
